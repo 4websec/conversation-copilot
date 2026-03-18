@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+dist/
+build/
+patch_main.py
+test_dg*.py
+dg_test_*.txt
