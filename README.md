@@ -4,6 +4,12 @@ Real-time AI-powered answer engine for live conversations. Listens to audio, ide
 
 Built with [Deepgram](https://deepgram.com) Nova-2 (streaming STT + diarization), [resemblyzer](https://github.com/resemble-ai/Resemblyzer) (voice-embedding speaker ID), and [Claude](https://anthropic.com) (streaming Q&A).
 
+## Screenshots
+
+### Live Session — Real-time Q&A
+![Copilot Live Session](docs/copilot-live.png)
+*Left panel: live transcript with speaker labels. Right panel: AI-generated answer streaming in real-time after a question about quantum physics. Bold terms rendered in green.*
+
 ## How It Works
 
 ```mermaid
