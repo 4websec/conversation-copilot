@@ -8,3 +8,5 @@ build/
 patch_main.py
 test_dg*.py
 dg_test_*.txt
+do_push.bat  
+cleanup.bat  
